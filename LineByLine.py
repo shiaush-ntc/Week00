@@ -1,0 +1,8 @@
+print(7)
+print(999)
+print("我的名字是蕭學宏")
+print(3.1415)
+print(42)
+print("meaning of life")
+print("NOT hello world \!")
+print(1)
